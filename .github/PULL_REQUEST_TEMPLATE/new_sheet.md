@@ -18,10 +18,10 @@ Format: `[Sheet Name] New Sheet: Description` — e.g. `[Dresden Files RPG] New 
 - **Game name:** 
 - **Publisher:** 
 - **System / family:** (e.g. Dungeons & Dragons, FATE)
-- **Where the rules can be found:** (purchase link or ISBN)
+- **Where the rules can be found:** https://magpiegames.com/collections/rapscallion
 
 **Publication status** (check one):
-- [ ] Traditionally published game
+- [X] Traditionally published game
 - [ ] Independently / self-published game
 - [ ] Unofficial fan game, hack, or homebrew system — describe: 
 
